@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rezzakali/typing-speed-test/static/css/main.69bb2db9.css",
+    "main.js": "/rezzakali/typing-speed-test/static/js/main.7a70fbf0.js",
+    "static/js/787.b498cbdd.chunk.js": "/rezzakali/typing-speed-test/static/js/787.b498cbdd.chunk.js",
+    "index.html": "/rezzakali/typing-speed-test/index.html",
+    "main.69bb2db9.css.map": "/rezzakali/typing-speed-test/static/css/main.69bb2db9.css.map",
+    "main.7a70fbf0.js.map": "/rezzakali/typing-speed-test/static/js/main.7a70fbf0.js.map",
+    "787.b498cbdd.chunk.js.map": "/rezzakali/typing-speed-test/static/js/787.b498cbdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bb2db9.css",
+    "static/js/main.7a70fbf0.js"
+  ]
+}
